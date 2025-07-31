@@ -4,7 +4,6 @@ A powerful and easy-to-use Roblox module for managing modpoints via the Apocryph
 
 [![Roblox](https://img.shields.io/badge/Roblox-Luau-blue.svg)](https://www.roblox.com/)
 [![API](https://img.shields.io/badge/API-Apocrypha-green.svg)](https://modmpointsapoc.vercel.app/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 
