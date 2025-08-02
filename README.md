@@ -1,7 +1,6 @@
 # ModpointsModule 
 
 
-[![API](https://img.shields.io/badge/API-Apocrypha-green.svg)](https://modmpointsapoc.vercel.app/)
 
 ## Features
 
