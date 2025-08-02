@@ -1,8 +1,6 @@
-# ModpointsModule for Roblox
+# ModpointsModule 
 
-A powerful and easy-to-use Roblox module for managing modpoints via the Apocrypha API. This module provides seamless integration with Discord user management and comprehensive modpoints tracking.
 
-[![Roblox](https://img.shields.io/badge/Roblox-Luau-blue.svg)](https://www.roblox.com/)
 [![API](https://img.shields.io/badge/API-Apocrypha-green.svg)](https://modmpointsapoc.vercel.app/)
 
 ## Features
@@ -20,7 +18,7 @@ A powerful and easy-to-use Roblox module for managing modpoints via the Apocryph
 
 ### Installation
 
-1. **Download the ModpointsModule** to your Roblox project
+1. **Download the ModpointsModule** to your  project
 2. **Place the module** in ReplicatedStorage:
    ```
    Game
